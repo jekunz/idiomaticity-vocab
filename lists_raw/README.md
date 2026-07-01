@@ -1,2 +1,7 @@
-* Some (especially the Norwegian OPUS-MT one) contain extremely many English words, due to the system generating random nonsense if inputs are too weird.
+### Files
+* Suffix `over_original` are the words overrepresented in the original corpus
+* Suffix `over_bt` are the words overrepresented in the backtranslated corpus
+
+### Notes
+* Some (especially the Norwegian OPUS-MT one) contain extremely many English words, due to the system generating random nonsense if inputs are too weird. 
 * Icelandic lists point at a lot of adult content in the files... Should maybe use an alternative corpus or more filtering... 
